@@ -19,5 +19,8 @@
   "homepage": "https://github.com/pilgrim-nord/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.0"
   }
 }
